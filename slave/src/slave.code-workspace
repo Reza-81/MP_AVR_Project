@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "slave",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"io.h": "c",
+			"lcd.h": "c",
+			"interrupt.h": "c"
+		}
+	}
+}
